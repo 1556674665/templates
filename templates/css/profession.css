@@ -1,0 +1,203 @@
+.bg_img.bgimg {
+    background: url(../img/banner_2.png) no-repeat center;
+}
+
+.width1200 {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.boxsize {
+    box-sizing: border-box;
+}
+
+.paddingtop40 {
+    padding-top: 40px;
+}
+
+.paddingtop50 {
+    padding-top: 50px;
+}
+
+.paddingleft30 {
+    padding-left: 30px;
+}
+
+.paddingleft40 {
+    padding-left: 40px;
+}
+
+.margintop50 {
+    margin-top: 50px;
+}
+
+.borderradius10 {
+    border-radius: 10px;
+}
+
+.colorred {
+    color: red;
+}
+
+.fwbold {
+    font-weight: bold;
+}
+
+.cursorp {
+    cursor: pointer;
+}
+
+.courselist {
+    width: 100%;
+    background-color: #fafafa;
+    padding: 60px 0 50px;
+
+}
+
+.courselist .course {
+    height: 223px;
+    position: relative;
+}
+
+.course1_group {
+    width: 772px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 312px;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+.course1_group p {
+    line-height: 30px !important;
+    /* margin-bottom: 10px; */
+}
+
+.courselist .course1 {
+    background: url(../img/Oracle.jpg) no-repeat center;
+}
+
+.courselist .course2 {
+    background: url(../img/java.jpg) no-repeat center;
+}
+
+.courselist .course3 {
+    background: url(../img/AI.jpg) no-repeat center;
+}
+
+.courselist .course4 {
+    background: url(../img/云计算.jpg) no-repeat center;
+}
+
+.courselist .course5 {
+    background: url(../img/Web.jpg) no-repeat center;
+}
+
+.courselist .course6 {
+    background: url(../img/大数据.jpg) no-repeat center;
+}
+
+.courselist .course1 .course1_group {
+    width: 772px;
+    height: 100%;
+}
+
+.course_title_wrap {
+    height: 175px;
+    background: url(../img/profession_title.png) no-repeat center;
+    padding: 80px 40px 0 70px;
+}
+
+.card_group {
+    width: 100%;
+    height: 280px;
+    background-color: #fafafa;
+}
+
+.card1 {
+    background: url(../img/ind-bnew01.png) no-repeat center;
+}
+
+.card2 {
+    background: url(../img/ind-bnew02.png) no-repeat center;
+}
+
+.card3 {
+    background: url(../img/ind-bnew03.png) no-repeat center;
+}
+
+.card4 {
+    background: url(../img/ind-bnew04.png) no-repeat center;
+}
+
+.flex {
+    display: flex;
+    display: -moz-box;
+    /* Firefox */
+    display: -ms-flexbox;
+    /* IE10 */
+    display: -webkit-box;
+    /* Safari */
+    display: -webkit-flex;
+
+}
+
+.card_group .flex {
+    height: 150px;
+    justify-content: space-between;
+}
+
+.card_group .card {
+    height: 100%;
+    width: 285px;
+    cursor: pointer;
+}
+
+.card_group .btn {
+    width: 240px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    background-color: #0285d0;
+    margin: 0 auto;
+    margin-top: 40px;
+    color: #fff;
+}
+
+.certifity_wrap {
+    width: 100%;
+    height: 653px;
+    background-color: #fff;
+}
+
+.certifity_group .line {
+    background-color: #323232;
+    margin-bottom: 20px;
+}
+
+.certifity_group .certifity_box {
+    width: 911px;
+    height: 414px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.certifity_box .boxes {
+    width: 315px;
+    height: 414px;
+}
+
+.certifity_left .thumnail {
+    background: url(../img/certifity1.png) no-repeat center;
+}
+
+.certifity_right .thumnail {
+    background: url(../img/certifity2.png) no-repeat center;
+}
+
+.thumnail {
+    width: 100%;
+    height: 236px;
+    margin-bottom: 20px;
+}

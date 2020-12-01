@@ -1,0 +1,19 @@
+.route{
+	margin: 20px;
+}
+.featurette-heading{
+	margin-bottom: 40px;
+    color: #F54885;
+    font-size: 30px;
+    line-height: 1.2;
+}
+.col-md-5 h2{
+	margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact-1{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 16px;
+	line-height: 25px;
+}
